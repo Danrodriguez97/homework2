@@ -1,5 +1,5 @@
 # Homework 2 - A Simple Shell Pt. 1
-## Due: 16 February 2019 : 12:00PM Noon
+## Due: 17 February 2019 : 11:00PM
 ### Introduction
 In our time here at UIC, we've all been working in the BASH shell for a good portion of our assignments, but have you ever thought about how it works? [BASH](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), has some powerful features! BASH is based on the [Bourne Shell](https://en.wikipedia.org/wiki/Bourne_shell) which might make Stephen Bourne cooler than Jason Bourne in my book.
 
@@ -33,7 +33,7 @@ cs361 >pwd
 cs361 >
 ```
 ### Turn in
-* An autograder will be implemented on gradescope. Part 1 will be due 16-Feb @ Noon.
+* An autograder will be implemented on gradescope. Part 1 will be due 17-Feb @ 11:00PM.
 * Submit all files needed to run your program, and a make file. The make file should build your entire project using ```make all```
 * Your executable should be called 361shell
 * _Projects that fail to comply with the above will not be graded._ 
